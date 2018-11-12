@@ -52,6 +52,43 @@
           }
         },
         {
+          "groupName": "ember types",
+          "groupSlug": "ember-types",
+          "minor": {
+            "automerge": false
+          },
+          "major": {
+            "automerge": false
+          },
+          "packageNames": [
+            "@types/ember",
+            "@types/ember-data",
+            "@types/ember-feature-flags",
+            "@types/ember-mocha",
+            "@types/ember-modal-dialog",
+            "@types/ember-qunit",
+            "@types/ember-resolver",
+            "@types/ember-test-helpers",
+            "@types/ember-testing-helpers",
+            "@types/ember__application",
+            "@types/ember__array",
+            "@types/ember__component",
+            "@types/ember__controller",
+            "@types/ember__debug",
+            "@types/ember__engine",
+            "@types/ember__error",
+            "@types/ember__object",
+            "@types/ember__polyfills",
+            "@types/ember__routing",
+            "@types/ember__runloop",
+            "@types/ember__service",
+            "@types/ember__string",
+            "@types/ember__test",
+            "@types/ember__test-helpers",
+            "@types/ember__utils"
+          ]
+        },
+        {
           "packageNames": [
             "broccoli-asset-rev",
             "ember-cli",
