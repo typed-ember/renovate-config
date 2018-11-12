@@ -1,5 +1,8 @@
 # @typed-ember/renovate-config
 
+[![Build Status](https://travis-ci.org/typed-ember/renovate-config.svg?branch=master)](https://travis-ci.org/typed-ember/renovate-config)
+[![npm version](https://badge.fury.io/js/typed-ember/renovate-config.svg)](https://www.npmjs.com/package/@typed-ember/renovate-config)
+
 Renovate bot sharable config for [typed-ember](https://github.com/typed-ember/) projects.
 
 # What does this do?
