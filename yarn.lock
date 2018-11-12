@@ -913,10 +913,10 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@typed-ember/semantic-release-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@typed-ember/semantic-release-config/-/semantic-release-config-1.0.0.tgz#2d91e5bb52f494c2620a05d76c01530f375c1751"
-  integrity sha512-3IiyveIjbhRsYYbn01OkZqxJnenHUschM0AXAu62cEw+0rIPX50mC4/tY1QuH1HgHHTbfwMmjw/lMPS48qoVwg==
+"@typed-ember/semantic-release-config@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@typed-ember/semantic-release-config/-/semantic-release-config-1.0.1.tgz#1a392afa6c7f73d6078ec8fa7f45b18ee25291aa"
+  integrity sha512-L+nOYbaSMRtr3cKHUXhDzzZeI81rKGu3dPt92GHVF05OKAiCDIh8l4fPBYBkelpdmDDxUMjP7vqkjeTtBbk94Q==
   dependencies:
     "@commitlint/cli" "7.2.1"
     "@commitlint/config-conventional" "7.1.2"
