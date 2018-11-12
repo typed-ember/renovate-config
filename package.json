@@ -1,6 +1,6 @@
 {
   "name": "@typed-ember/renovate-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Renovate bot sharable config for typed-ember repositories",
   "main": "index.js",
   "repository": "git@github.com:typed-ember/renovate-config.git",
@@ -93,6 +93,10 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
   },
   "husky": {
     "hooks": {
