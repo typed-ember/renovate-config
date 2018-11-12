@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/typed-ember/renovate-config/compare/v1.1.0...v1.2.0) (2018-11-12)
+
+
+### Features
+
+* group ember type upgrades ([4cc416e](https://github.com/typed-ember/renovate-config/commit/4cc416e))
+
 # [1.1.0](https://github.com/typed-ember/renovate-config/compare/v1.0.1...v1.1.0) (2018-11-12)
 
 
