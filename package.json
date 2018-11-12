@@ -1,6 +1,6 @@
 {
   "name": "@typed-ember/renovate-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renovate bot sharable config for typed-ember repositories",
   "main": "index.js",
   "repository": "git@github.com:typed-ember/renovate-config.git",
