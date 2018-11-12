@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/typed-ember/renovate-config/compare/v1.0.1...v1.0.2) (2018-11-12)
+
+
+### Bug Fixes
+
+* remove unused main entry ([5e12467](https://github.com/typed-ember/renovate-config/commit/5e12467))
+
 ## [1.0.1](https://github.com/typed-ember/renovate-config/compare/v1.0.0...v1.0.1) (2018-11-12)
 
 
