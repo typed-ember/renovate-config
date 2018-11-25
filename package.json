@@ -118,6 +118,7 @@
           ],
           "groupName": "stable ember infrastructure",
           "groupSlug": "stable-ember-infra",
+          "updateTypes": ["major", "minor", "patch"],
           "major": {
             "automerge": true
           }
