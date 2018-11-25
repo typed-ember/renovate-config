@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/typed-ember/renovate-config/compare/v1.2.0...v1.2.1) (2018-11-25)
+
+
+### Bug Fixes
+
+* stable-ember batched upgrade doesn't include SHA versions ([6523195](https://github.com/typed-ember/renovate-config/commit/6523195))
+
 # [1.2.0](https://github.com/typed-ember/renovate-config/compare/v1.1.0...v1.2.0) (2018-11-12)
 
 
