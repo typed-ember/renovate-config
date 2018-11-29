@@ -16,7 +16,7 @@
     "@commitlint/travis-cli": "7.2.1",
     "@typed-ember/semantic-release-config": "1.0.1",
     "husky": "1.2.0",
-    "semantic-release": "15.12.2",
+    "semantic-release": "15.12.3",
     "travis-deploy-once": "5.0.9"
   },
   "renovate-config": {
