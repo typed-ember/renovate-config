@@ -17,7 +17,7 @@
     "@typed-ember/semantic-release-config": "1.0.5",
     "husky": "1.2.0",
     "semantic-release": "15.12.4",
-    "travis-deploy-once": "5.0.9"
+    "travis-deploy-once": "5.0.11"
   },
   "renovate-config": {
     "default": {
