@@ -5,8 +5,8 @@ yarn: true
 notifications:
   email: false
 node_js:
+  - '12'
   - '10'
-  - '8'
 script:
   - yarn test && yarn travis-deploy-once "yarn semantic-release"
 branches:
