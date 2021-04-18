@@ -5,6 +5,13 @@
 
 * postUpdateOptions expects an array ([55a3ec5](https://github.com/typed-ember/renovate-config/commit/55a3ec5))
 
+## [1.2.2](https://github.com/typed-ember/renovate-config/compare/v1.2.1...v1.2.2) (2021-04-18)
+
+
+### Bug Fixes
+
+* postUpdateOptions expects an array ([55a3ec5](https://github.com/typed-ember/renovate-config/commit/55a3ec5))
+
 ## [1.2.2](https://github.com/typed-ember/renovate-config/compare/v1.2.1...v1.2.2) (2020-12-15)
 
 
