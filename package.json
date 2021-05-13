@@ -11,9 +11,9 @@
     "test": "echo 'no tests'"
   },
   "devDependencies": {
-    "@commitlint/cli": "12.1.1",
-    "@commitlint/config-conventional": "12.1.1",
-    "@commitlint/travis-cli": "12.1.1",
+    "@commitlint/cli": "12.1.4",
+    "@commitlint/config-conventional": "12.1.4",
+    "@commitlint/travis-cli": "12.1.4",
     "@typed-ember/semantic-release-config": "1.1.8",
     "husky": "6.0.0",
     "semantic-release": "17.2.3",
